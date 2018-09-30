@@ -67,7 +67,7 @@ else:
         output = 'Indeterminate'
 
 print(output)        
-
+#new comment
 #Q2
 print("Q2")  
 primeList = []     
